@@ -2,7 +2,7 @@ import './styles.css';
 
 function Banner(){
    return(
-      <h1>Hello, World!</h1>
+      <h1 class="header">The Amazing Ocean</h1>
    );
 }
 
