@@ -1,5 +1,11 @@
+// import recipedata from "./recipe.json"
+
+// let ingredients = recipedata.ingredients
 function IngredientList() {
-   return;
+  // const ListOfIngredients = props => {
+  //   return props.map(ingredient => <li key={props.index}>{ingredient}</li>)
+  // }
+  //  return;
  }
  
  export default IngredientList;

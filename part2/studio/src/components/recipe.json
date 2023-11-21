@@ -13,6 +13,21 @@
        "heavy cream",
        "milk"
      ]
+   },
+   {
+    "name": "Perfect Pot Roast",
+    "author": "Holly Nilsson",
+    "description": "Melt in your mouth tender, full of rich beefy flavor, and all cooked in just one pot, the ultimate comfort food.",
+    "website": "https://www.spendwithpennies.com/perfect-pot-roast/",
+    "recipeImage": "https://www.spendwithpennies.com/wp-content/uploads/2022/03/1200-Pot-Roast-Chuck-Roast-SpendWithPennies-8-2-1024x1536.jpg",
+    "authorImage": "https://secure.gravatar.com/avatar/fa4bdeb9d2aa6450536af2064fac2481?s=128&r=g",
+    "ingredients": [
+      "Beef Chuck Roast",
+      "Carrots",
+      "Potates",
+      "Onions",
+      "Broth"
+    ]
    }
  ]
  
